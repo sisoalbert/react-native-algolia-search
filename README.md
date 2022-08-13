@@ -11,7 +11,7 @@
 In the project directory, run:
 
 ```bash
-git clone https://github.com/magneto-app/magnetoshop.git
+git clone https://github.com/sisoalbert/react-native-algolia-search.git
 yarn install
 yarn start
 ```
