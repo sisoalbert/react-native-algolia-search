@@ -4,7 +4,7 @@
 
 <!-- This simple project shows how to integrate the [Yoco Web SDK for Online Payments](https://developer.yoco.com/online/getting-started) into a React web app. -->
 
-> Tested with Node v14.19.0
+> Tested with Node v16.14.0
 
 # Run
 
@@ -17,8 +17,10 @@ yarn start
 ```
 
 This runs the app in development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-The page will reload when you make changes.
+
+<!-- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The page will reload when you make changes. -->
+
 You may also see any lint errors in the console.
 
 # Build
@@ -46,4 +48,4 @@ You are now ready to deploy the app to static hosting, or use it with a backend 
 
 ---
 
-This project created with [Vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+This project created with [React-native](https://reactnative.dev/docs/getting-started.
